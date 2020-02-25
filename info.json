@@ -1,0 +1,11 @@
+{
+    "name": "realistictech",
+    "version": "0.0.1",
+    "title": "Realistic Tech",
+    "author": "superspeeder101,Exidekat",
+    "contact": "world-of-cat.club@gmail.com",
+    "homepage": "http://world-of-cat.club/mods/factorio.html#realistictech",
+    "factorio_version": "0.17",
+    "dependencies": ["base >= 0.17"],
+    "description": "realism"
+}
